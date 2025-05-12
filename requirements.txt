@@ -1,0 +1,5 @@
+browser-use
+dotenv
+langchain_google_genai
+pydantic
+playwright
